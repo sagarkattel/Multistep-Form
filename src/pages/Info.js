@@ -57,7 +57,7 @@ export function Info() {
           <br /><br /> <br /><br /><br /><br /><br />
           <input type="submit" value="Next Step"  />
         </form>
-        <p>Hello,{input.fname}</p>
+        {/* <p>Hello,{input.fname}</p> */}
       </div>
     </div>
   );

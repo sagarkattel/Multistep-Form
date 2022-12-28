@@ -1,6 +1,5 @@
 import { Link} from "react-router-dom";
 import { useState,useEffect } from 'react';
-// import { setHclickValues } from './hclick-utils';
 import { useLocation } from "react-router-dom";
 
 const useLocalStorage = (storageKey, fallbackState) => {
