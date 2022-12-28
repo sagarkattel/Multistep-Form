@@ -1,0 +1,22 @@
+.mainthank{
+    /* background-color: red; */
+    height: 550px;
+    width: 900px;
+}
+.mainthank>h1{
+    padding-top: 25px;
+    text-align: center;
+}
+.mainthank>img{
+    padding-left: 392px;
+    padding-top: 170px;
+
+}
+.mainthank>p{
+    /* padding-top: 30px; */
+    margin-top: 10px;
+    text-align: center;
+    /* background-color: yellow; */
+    width: 390px;
+    margin-left: 250px;
+}

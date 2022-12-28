@@ -1,0 +1,62 @@
+.adsMain{
+    display: inline;
+}
+
+.headsecond{
+    display: inline;
+}
+
+.headsecond > * {
+    flex: 1 1 1;
+    height: 70px;
+    width: 120px;
+    border-radius: 15px;
+    border: 2px solid gray;
+  }
+
+.onehead{
+    background-color: lightgray;
+    width: 570px;
+    margin-top: 20px;
+    display: flex;
+
+}
+.onetext{
+    /* background-color: burlywood; */
+    width: 250px;
+    margin-left: 40px;
+}
+
+.onespan{
+    padding-left: 180px;
+    padding-top: 25px;
+}
+
+.onetick{
+    padding-top: 22px;
+    padding-left: 22px;
+}
+
+.fourth{
+    padding-top: 70px;
+}
+
+.check{
+    height: 25px;
+  width: 25px;
+  border-radius: 900px;
+  background-color: #eee;
+}
+.uncheck{
+    height: 25px;
+  width: 25px;
+  border-radius: 900px;
+  background-color: white;
+}
+
+
+
+
+
+
+

@@ -1,0 +1,47 @@
+.mainsummary{
+    display: inline;
+}
+
+.summarytwo{
+    margin-top: 20px;
+    display: inline;
+    width: 500px;
+    display: block;
+    background-color: lightgrey;
+    border-radius: 15px;
+    /* gap: 100%; */
+
+}
+
+.summarythree{
+    /* background-color: yellow; */
+    display: flex;
+    margin-top: 30px;
+
+}
+.summarythree>span{
+    padding-left: 280px;
+}
+.summarythree>p{
+    padding-top: 10px;
+}
+.maintwo{
+    display: flex;
+    /* background-color: lightgrey; */
+    height: 90px;
+    /* margin-top: -2px; */
+    padding-top: 20px;
+}
+
+.te{
+    /* background-color: red; */
+    width: 400px;
+    padding-top: 10px;
+}
+.te>p{
+    padding-top: 2px;
+}
+.pr{
+    font-size: large;
+    padding-top: 20px;
+}
